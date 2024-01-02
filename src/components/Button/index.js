@@ -1,7 +1,7 @@
 import React from "react";
-import { Button } from "@mui/material";
+import { Button as MuiButton } from "@mui/material";
 const Button = () => {
-  return <Button>Click Me!</Button>;
+  return <MuiButton>Click Me!</MuiButton>;
 };
 
 export default Button;
