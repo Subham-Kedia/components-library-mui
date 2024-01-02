@@ -7,7 +7,7 @@
     "build:esm": "babel src --out-dir esm --copy-files --no-copy-ignored",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run build:esm",
-    "prepublish": "rm -rf esm && npm run build"
+    "prepublishOnly": "rm -rf esm && npm run build"
   },
   "author": "",
   "license": "ISC",
