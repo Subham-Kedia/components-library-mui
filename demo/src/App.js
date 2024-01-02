@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import { Button } from "components-library-mui";
+import { Button } from "common-components-mui";
 
 function App() {
   return (
