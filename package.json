@@ -1,6 +1,6 @@
 {
   "name": "common-components-mui",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "frequently used react components using mui theme",
   "module": "esm/index.js",
   "scripts": {
